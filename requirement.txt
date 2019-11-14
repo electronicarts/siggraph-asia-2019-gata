@@ -1,0 +1,8 @@
+conda create --name GATA python=3.6
+conda activate GATA
+conda install -c anaconda numpy
+conda install -c menpo opencv
+conda install -c anaconda scipy
+pip install psychopy
+conda install -c anaconda 'tensorflow-gpu=1.10.*'(GPU)
+conda install -c aaronzs tensorflow=1.10(CPU)
