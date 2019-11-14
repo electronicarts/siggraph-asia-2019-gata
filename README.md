@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-The repository contains source code supporting the paper "Multi-Theme Generative Adversarial Terrain Amplification" by Yiwei Zhao, Han Liu, Igor Borovikov, Ahmad Beirami, Maziar Sanjabi, and Kazi Zaman (EA Digital Platform – Data & AI, Electronic Arts), accepted at SIGGRAPH Asia 2019.
+The repository contains source code supporting the paper "Multi-Theme Generative Adversarial Terrain Amplification" by Yiwei Zhao, Han Liu, Igor Borovikov, Ahmad Beirami, Maziar Sanjabi, and Kazi Zaman (EA Digital Platform â€“ Data & AI, Electronic Arts), accepted at SIGGRAPH Asia 2019.
 
 ## Getting started
 
@@ -22,7 +22,7 @@ Next, clone the repository.
 
 ## Dataset
 
-Download the raw dataset to folder `dataset/raw_dataset/`.
+Download the raw dataset to folder `dataset/raw_dataset/`. We will provide some links to the potential sources of publicly available datasets for experimentation.
   
 ## Preprocessing
 
